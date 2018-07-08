@@ -8,7 +8,7 @@
   <img src="https://i.imgflip.com/28mpcx.jpg"/>
 </p>
 
-### `<ul>`, `<li>`
+### `<ul>` `<li>`
 
 **Remember to use `httpserver` to live test your webpage**
 
